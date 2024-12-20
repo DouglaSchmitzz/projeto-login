@@ -113,6 +113,8 @@ form > input[type="submit"]:hover {
   background-color: rgba(9, 24, 6, 0.092);
 }
 
+/*Configurações dos botões*/
+
 form > a.botao {
   display: block;
   text-align: center;
@@ -127,6 +129,8 @@ form > a.botao {
   border-radius: 5px;
   text-decoration: none;
 }
+
+/*Ícone do botão*/
 
 form > a.botao > i {
   font-size: 0.8em;
